@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Live Demo  
-[![Live Project](https://aid-atlas-ai.vercel.app/)
+(https://aid-atlas-ai.vercel.app/)
 
 ---
 

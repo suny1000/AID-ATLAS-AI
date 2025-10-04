@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Live Demo  
-[![Live Project](https://img.shields.io/badge/🌐https://aid-atlas-ai.vercel.app/)
+[![Live Project](https://aid-atlas-ai.vercel.app/)
 
 ---
 

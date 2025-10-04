@@ -1,0 +1,7 @@
+project_id = "teuohyqrlbkqhsjgqomm"
+
+[functions.classify-request]
+verify_jwt = false
+
+[functions.get-mapbox-token]
+verify_jwt = false
